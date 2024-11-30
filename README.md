@@ -1,2 +1,2 @@
 # Atar_
-Ai-ecommerce
+CSCI251
