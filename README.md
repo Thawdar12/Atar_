@@ -2,6 +2,7 @@
 CSCI251 Advanced Programming
 
 Project: Shape Management System 
+
 About: This Shape Management System lets users create 2D shapes, compute areas, analyze points, and sort or view detailed reports. With a menu-driven interface and object-oriented design, it efficiently manages shapes for geometric analysis and educational use.
 
 What I learnt
